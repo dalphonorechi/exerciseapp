@@ -1,7 +1,7 @@
 ### Backend for Exercise app
 
 
-The Front end can be found [here](https://github/dalphonorechi/exercisereact)
+The Front end can be found [here](https://github.com/dalphonorechi/exercisereact)
 
 It uses Node.js and Express.js as frameworks.
 
